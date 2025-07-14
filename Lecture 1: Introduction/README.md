@@ -28,8 +28,8 @@ Forward propagation or forward pass is the process of feeding input data through
 ![alt text](./img/3.png)
 The formula can also be rewritten as the following: <br>
 $\large \hat{y} = g(w_0 + X^T W)$ where  
-$X = \begin{bmatrix} x_1 \\ \vdots \\ x_m \end{bmatrix}$ and  
-$W = \begin{bmatrix} w_1 \\ \vdots \\ w_m \end{bmatrix}$ <br>
+$X = \begin{bmatrix} x_1 \\\ \vdots \\\ x_m \end{bmatrix}$ and  
+$W = \begin{bmatrix} w_1 \\\ \vdots \\\ w_m \end{bmatrix}$ <br>
 **Bias Term** ($W_0$) is a constant value added to the weighted sum of inputs to a neuron, shifting the activation function, providing flexibility and improving model accuracy.  
 
 ## Common activation functions
